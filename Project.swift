@@ -44,6 +44,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -87,6 +89,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "iPhone Distribution",
@@ -128,6 +132,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Developer ID Application",
@@ -170,6 +176,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Developer ID Application",
@@ -213,6 +221,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -256,6 +266,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -299,6 +311,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -342,6 +356,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -385,6 +401,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",
@@ -428,6 +446,8 @@ let project = Project(
 
                     "SKIP_INSTALL": "NO",
                     "COPY_PHASE_STRIP": "NO",
+                    "STRIP_INSTALLED_PRODUCT": "NO",
+                    "DEBUG_INFORMATION_FORMAT": "dwarf-with-dsym",
 
                     "DEVELOPMENT_TEAM": developmentTeam,
                     "CODE_SIGN_IDENTITY": "Apple Distribution",

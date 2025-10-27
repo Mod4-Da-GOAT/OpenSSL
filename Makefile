@@ -36,7 +36,7 @@ CWD := $(abspath $(patsubst %/,%,$(dir $(abspath $(lastword $(MAKEFILE_LIST)))))
 # Make check-signing-identity the first task for 'all' only
 all: check-signing-identity project build frameworks
 
-project:
+project: check-signing-identity
 ifdef SIGNING_IDENTITY
     # Extract team ID from signing identity
 	$(eval TEAM_ID := $(shell echo "$(SIGNING_IDENTITY)" | grep -o '([A-Z0-9]\+)' | tr -d '()'))
